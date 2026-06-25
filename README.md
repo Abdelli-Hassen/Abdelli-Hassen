@@ -1,143 +1,190 @@
-# Hi there 👋 I'm Hassen Abdelli
+<h1 align="center">Hi 👋, I'm Hassen Abdelli</h1>
 
-## 💻 Computer Science Graduate | Full-Stack Developer | IT Support | Networking | Future Cybersecurity Engineer
+<h3 align="center">
+Computer Science Graduate • Full-Stack Developer • IT Support • Network & System Administration • Future Cybersecurity Engineer
+</h3>
 
-I'm passionate about building software, managing IT infrastructure, solving technical problems, and learning cybersecurity.
-
-Currently looking for opportunities as:
-
-- Junior Full-Stack Developer
-- IT Support Engineer
-- Network Administrator
-- Junior Cybersecurity Analyst
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Full-Stack+Developer;IT+Support+Engineer;Network+%26+System+Administrator;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Computer Science Graduate
+I'm a **Computer Science graduate** from Tunisia passionate about **IT Infrastructure, Networking, Full-Stack Development, IoT, and Cybersecurity**.
 
-🔧 Hands-on experience with:
+I enjoy solving technical problems, building software, working with enterprise networks, and continuously learning new technologies.
 
-- Enterprise Networking
-- IT Support
-- Server Maintenance
-- Hardware Troubleshooting
+I'm currently looking for opportunities as a:
 
-💻 I also develop
-
-- Web Applications
-- Mobile Applications
-- Desktop Tools
-
-⚡ Interested in
-
-- Cybersecurity
-- Linux
-- Docker
-- Networking
-- Cloud Computing
-- IoT
+- 💻 Full-Stack Developer
+- 🖥 IT Support Engineer
+- 🌐 Network Administrator
+- 🔐 Junior Cybersecurity Analyst
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-- JavaScript
-- TypeScript
-- Dart
-- Java
-- Python
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,dart,java,python,cs" />
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-- React
-- Angular
-- HTML
-- CSS
-- Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
+</p>
 
-### Mobile
+### ⚙ Backend
 
-- Flutter
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Backend
+### 🗄 Database
 
-- Node.js
-- Express
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+</p>
 
-### Database
+### 📱 Mobile
 
-- MongoDB
-- Supabase
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
-### DevOps
+### 🐧 DevOps & Tools
 
-- Docker
-- Git
-- GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode" />
+</p>
 
-### Networking & IT
+### 🌐 Networking & Cybersecurity
 
-- Linux
-- Windows
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali" />
+</p>
+
 - TCP/IP
 - DHCP
 - DNS
+- Routing & Switching
+- Network Troubleshooting
 - Wireshark
 - Nmap
+- System Administration
 
-### IoT
+### 🤖 IoT
 
-- Arduino
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
 - ESP8266
-- Raspberry Pi
+- Embedded Systems
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-🔹 Full Stack Web Applications
+Here are some of the projects you'll find on my GitHub:
 
-🔹 Flutter Mobile Apps
-
-🔹 Networking Tools
-
-🔹 Arduino & Raspberry Pi Projects
-
-🔹 Automation Scripts
+- 🌐 Full-Stack Web Applications
+- 📱 Flutter Mobile Applications
+- 🖥 IT & Networking Utilities
+- 🤖 Arduino & Raspberry Pi Projects
+- ⚙ Automation Scripts
+- 🐳 Docker Experiments
+- 🔐 Cybersecurity Learning Projects
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Ethical Hacking
-- Penetration Testing
+- Network Security
+- Linux Administration
 - Docker
 - Kubernetes
-- Linux Administration
+- Penetration Testing
 - Active Directory
-- Network Security
+- Cloud Computing
+- SOC Fundamentals
 
 ---
 
-## 📫 Contact
+# 📊 GitHub Statistics
 
-📧 Email:
-**ibdellihassen7@gmail.com**
+<p align="center">
 
-💼 LinkedIn
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdelli-Hassen&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-https://linkedin.com/in/hassen-abdelli
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelli-Hassen&layout=compact&theme=tokyonight&hide_border=true"/>
 
-🌐 Portfolio
+</p>
 
-Coming Soon
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelli-Hassen&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abdelli-Hassen&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelli-Hassen&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hassen-abdelli">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ibdellihassen7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Fun Fact
+
+> I enjoy restoring hardware, building full-stack applications, experimenting with IoT devices, managing networks, and continuously expanding my cybersecurity skills.
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Abdelli-Hassen&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+
+⭐ If you like my work, consider starring one of my repositories!
+
+</p>
