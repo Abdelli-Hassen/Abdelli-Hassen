@@ -5,7 +5,7 @@ Computer Science Graduate • Full-Stack Developer • IT Support • Network & 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Full-Stack+Developer;IT+Support+Engineer;Network+%26+System+Administrator;Building+AI+Projects;IoT+Developer;Future+Cybersecurity+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Full-Stack+Developer;IT+Support+Engineer;Network+%26+System+Administrator;Building+AI+Projects;IoT+Developer;Future+Cybersecurity+Engineer" />
 </p>
 
 ---
